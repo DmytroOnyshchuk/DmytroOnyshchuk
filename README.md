@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Dmytro Onyshchuk
 
-### 🏗 iOS Developer | 16 Years in IT | 4+ Years in Mobile Development
+### 💻 iOS Developer | 16 Years in IT | 4+ Years in Mobile Development
 
 - 🎯 Developing iOS apps in Swift
 - 🧠 Passionate about learning new technologies and applying them in practice
