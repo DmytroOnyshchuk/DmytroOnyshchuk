@@ -12,38 +12,27 @@
 
 **Programming Languages:** Swift, Kotlin (secondary)
 
-**SDK:**
-- iOS SDK, Android SDK, Firebase SDK, Google Maps SDK, Facebook SDK, Instagram API, OpenAI API
+**SDK:** iOS SDK, Android SDK, Firebase SDK, Google Maps SDK, Facebook SDK, Instagram API, OpenAI API
 
-**Frameworks & Libraries:**  
-- Alamofire, Kingfisher, SDWebImage photo libs, PureLayout library, Socket IO, WebSocket
+**Frameworks & Libraries:** Alamofire, Kingfisher, SDWebImage photo libs, PureLayout library, Socket IO, WebSocket
 
-**Swift tech:**  
-- UIKit, Auto Layout, async/await, Codable, DeepLink, App Clips, Apple Pay, CarPlay, Apple Wallet Passbook (PassKit), Apple Watch (WatchKit), HealthKit, WidgetKit, Calendar, 3DSecure, CoreLocation, AVFoundation, iOS Custom Keyboard, Combine, URLSession, XMPPFramework, Vision SDK, Google MLKit, Background Tasks, REST, GCD, Multilanguage
+**Swift tech:** UIKit, Auto Layout, async/await, Codable, DeepLink, App Clips, Apple Pay, CarPlay, Apple Wallet Passbook (PassKit), Apple Watch (WatchKit), HealthKit, WidgetKit, Calendar, 3DSecure, CoreLocation, AVFoundation, iOS Custom Keyboard, Combine, URLSession, XMPPFramework, Vision SDK, Google MLKit, Background Tasks, REST, GCD, Multilanguage
 
-**Database Management System:**  
-- Realm, CoreData
+**Database Management System:** Realm, CoreData
 
-**Dependency Managers and Build Automation tools:**  
-- Swift Package Manager (SPM), CocoaPods, Xcode Cloud
+**Dependency Managers and Build Automation tools:** Swift Package Manager (SPM), CocoaPods, Xcode Cloud
 
-**Crash Reporting tools:**  
-- Firebase Crashlytics, Bugfender
+**Crash Reporting tools:** Firebase Crashlytics, Bugfender
 
-**Etc:**  
-- Firebase Cloud Messaging, Google Analytics, Firebase Remote Config, AppsFlyer, OneSignal Push Notifications, Speech Recognizing
+**Etc:** Firebase Cloud Messaging, Google Analytics, Firebase Remote Config, AppsFlyer, OneSignal Push Notifications, Speech Recognizing
 
-**Software Development Principles and Concepts:**  
-- Clean Architecture, SOLID, MVP, DRY, Observer pattern, Singleton pattern
+**Software Development Principles and Concepts:** Clean Architecture, SOLID, MVP, DRY, Observer pattern, Singleton pattern
 
-**Version Control System:**  
-- Git (Fork Git app, Sourcetree app), GitHub, Bitbucket, GitLab
+**Version Control System:** Git (Fork Git app, Sourcetree app), GitHub, Bitbucket, GitLab
 
-**Etc Tools:**  
-- Figma, JIRA, Azure Boards, Trello, ClickUp, Slack, Apple Connect, TestFlight
+**Etc Tools:** Figma, JIRA, Azure Boards, Trello, ClickUp, Slack, Apple Connect, TestFlight
 
-**Artificial intelligence (AI):**  
-- ChatGPT, Claude
+**Artificial intelligence (AI):** ChatGPT, Claude
 
 ---
 
