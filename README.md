@@ -10,8 +10,7 @@
 
 ## Skills & Technologies  
 
-**Programming Languages:**  
-- Swift, Kotlin (secondary)
+**Programming Languages:** Swift, Kotlin (secondary)
 
 **SDK:**
 - iOS SDK, Android SDK, Firebase SDK, Google Maps SDK, Facebook SDK, Instagram API, OpenAI API
