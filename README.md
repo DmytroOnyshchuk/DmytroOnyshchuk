@@ -1,16 +1,16 @@
 # I'm Dmytro Onyshchuk
 
-### 💻 iOS Developer | 16 Years in IT | 4+ Years in Mobile Development
+### iOS Developer | 16 Years in IT | 4+ Years in Mobile Development
 
-- 🎯 Developing iOS apps in Swift
-- 🧠 Passionate about learning new technologies and applying them in practice
-- 🛠 Skilled in **Swift**, working with **UIKit, Combine, HealthKit, AVFoundation, CoreData, Realm**
-- 🔗 Integrating APIs (OpenAI, Firebase, Google Maps, Facebook, Instagram)
-- 🎨 Proficient in **Figma** and managing projects with **JIRA, Trello, ClickUp**
+- Developing iOS apps in Swift
+- Passionate about learning new technologies and applying them in practice
+- Skilled in **Swift**, working with **UIKit, Combine, HealthKit, AVFoundation, CoreData, Realm**
+- Integrating APIs (OpenAI, Firebase, Google Maps, Facebook, Instagram)
+- Proficient in **Figma** and managing projects with **JIRA, Trello, ClickUp**
 
 ---
 
-## 🛠 Skills & Technologies  
+## Skills & Technologies  
 
 **Programming Languages:**  
 - Swift, Kotlin (secondary)
@@ -50,10 +50,10 @@
 
 ---
 
-## 📫 How to Reach Me  
+## How to Reach Me  
 
 - 📧 Email: [dmytro.on90@gmail.com](mailto:dmytro.on90@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/dmytro-onyshchuk](https://www.linkedin.com/in/dmytro-onyshchuk/)  
 - 🖥 GitHub: [github.com/DmytroOnyshchuk](https://github.com/DmytroOnyshchuk)  
 
-🚀 **Open to new challenges and exciting projects!**
+**Open to new challenges and exciting projects!**
