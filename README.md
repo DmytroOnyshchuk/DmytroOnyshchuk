@@ -4,9 +4,7 @@
 
 - Developing iOS apps in Swift
 - Passionate about learning new technologies and applying them in practice
-- Skilled in **Swift**, working with **UIKit, Combine, HealthKit, AVFoundation, CoreData, Realm**
-- Integrating APIs (OpenAI, Firebase, Google Maps, Facebook, Instagram)
-- Proficient in **Figma** and managing projects with **JIRA, Trello, ClickUp**
+- Skilled in **Swift**, working with **UIKit, Combine, HealthKit, AVFoundation, Realm**
 
 ---
 
