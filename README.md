@@ -4,7 +4,6 @@
 
 - Developing iOS apps in Swift
 - Passionate about learning new technologies and applying them in practice
-- Skilled in **Swift**, working with **UIKit, Combine, HealthKit, AVFoundation, Realm**
 
 ---
 
