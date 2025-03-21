@@ -56,4 +56,4 @@
 - 💼 LinkedIn: [linkedin.com/in/dmytro-onyshchuk](https://www.linkedin.com/in/dmytro-onyshchuk/)  
 - 🖥 GitHub: [github.com/DmytroOnyshchuk](https://github.com/DmytroOnyshchuk)  
 
-**Open to new challenges and exciting projects!**
+🚀 **Open to new challenges and exciting projects!**
