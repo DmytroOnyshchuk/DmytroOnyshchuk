@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Dmytro Onyshchuk
+# I'm Dmytro Onyshchuk
 
 ### 💻 iOS Developer | 16 Years in IT | 4+ Years in Mobile Development
 
